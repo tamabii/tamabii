@@ -15,4 +15,18 @@ I am a student , love learn coding now I'm learning such as HTML, CSS, JavaScrip
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme={theme_name}
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently a Student. </br>
+    - 🌱 I’m currently learning Git, Solidity. </br>
+    - 👯 I’m looking to Bootcamp and Make community. </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:cosmodanang@gmail.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br>
+</details>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tamabii&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamabii&layout=compact" height=180 />
+</p>
