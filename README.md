@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
+<br><br>
 </div>
 
 # Hi there 👋 , I'm Tamabi!
@@ -7,7 +8,7 @@
 I am a student still learning  , love learn coding now I'm learning such as HTML, CSS, JavaScript, PHP, Rust, Solidity.
 
 Lets having fun here 
-
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
