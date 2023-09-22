@@ -22,5 +22,5 @@ Lets having fun here
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamabii&theme=monokai"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamabii&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamabii&layout=compact&theme=monokai&langs_count=5"/><br />
 </p>
