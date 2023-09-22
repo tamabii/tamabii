@@ -4,7 +4,7 @@
 
 # Hi there 👋 , I'm Tamabi!
 
-### I am a student , love learn coding now I'm learning such as HTML, CSS, JavaScript, PHP, Rust, Solidity.
+I am a student , love learn coding now I'm learning such as HTML, CSS, JavaScript, PHP, Rust, Solidity.
 
 ### Tools:
 <p>
