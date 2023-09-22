@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Tamabi!
-I love learn new thing in programming such as Javascript, HTML, Python, Rust, Solidity, Swift
+I love learn new thing in programming such as Javascript, HTML, Python, Rust, Solidity,
 
 ### Tools:
 <p>
