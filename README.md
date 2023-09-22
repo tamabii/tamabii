@@ -15,3 +15,16 @@ I am a student , love learn coding now I'm learning such as HTML, CSS, JavaScrip
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+### Stats:
+<details>
+ <summary><strong>What i am learning</strong></summary>
+    - 🔭 I’m currently a Student. </br>
+    - 🌱 I’m currently learning Rust, Solidity. </br>
+    - 🤔 Lets Having Fun here. </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="bitvv1hero@gmail.com">Email me!</a>  </br>
+</details>
+<p>
+   <img src="https://github-readme-stats.vercel.app/api?username=tamabii&hide=contribs,prs&show_icons=true&hide_border=true&title_color=00000" />
+</p>
